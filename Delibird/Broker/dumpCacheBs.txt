@@ -1,0 +1,26 @@
+---------------------------------------------------
+Dump: Fri 2020-08-07 22:57:31
+| Dirección 0: 0x9cca288 | Mem Libre: 8 | Mem Ocupada: 56 
+| Dirección 1: 0x9cca288 - 0x9cca28b | Size: 4 b | LRU: 1 | COLA: CAUGHT_POKEMON | ID: 1 
+| Dirección 2: 0x9cca28c - 0x9cca28f | Size: 4 b | LRU: 1 | COLA: CAUGHT_POKEMON | ID: 2 
+| Dirección 3: 0x9cca2a8 - 0x9cca2c7 | Size: 32 b | LRU: 0 | COLA: NEW_POKEMON | ID: 3 
+| Dirección 4: 0x9cca298 - 0x9cca2a7 | Size: 16 b | LRU: 1 | COLA: CATCH_POKEMON | ID: 4 
+---------------------------------------------------
+---------------------------------------------------
+Dump: Fri 2020-08-07 22:57:49
+| Dirección 0: 0x9cca288 | Mem Libre: 0 | Mem Ocupada: 64 
+| Dirección 1: 0x9cca2a8 - 0x9cca2c7 | Size: 32 b | LRU: 0 | COLA: NEW_POKEMON | ID: 3 
+| Dirección 2: 0x9cca288 - 0x9cca2a7 | Size: 32 b | LRU: 0 | COLA: CATCH_POKEMON | ID: 5 
+---------------------------------------------------
+---------------------------------------------------
+Dump: Fri 2020-08-07 22:58:14
+| Dirección 0: 0x9cca288 | Mem Libre: 0 | Mem Ocupada: 64 
+| Dirección 1: 0x9cca2a8 - 0x9cca2c7 | Size: 32 b | LRU: 0 | COLA: NEW_POKEMON | ID: 3 
+| Dirección 2: 0x9cca288 - 0x9cca2a7 | Size: 32 b | LRU: 0 | COLA: CATCH_POKEMON | ID: 5 
+---------------------------------------------------
+---------------------------------------------------
+Dump: Fri 2020-08-07 22:58:52
+| Dirección 0: 0x9cca288 | Mem Libre: 0 | Mem Ocupada: 64 
+| Dirección 1: 0x9cca2a8 - 0x9cca2c7 | Size: 32 b | LRU: 1 | COLA: NEW_POKEMON | ID: 3 
+| Dirección 2: 0x9cca288 - 0x9cca2a7 | Size: 32 b | LRU: 0 | COLA: CATCH_POKEMON | ID: 5 
+---------------------------------------------------

@@ -1,0 +1,9 @@
+Dump: Sat 2020-08-08 10:52:56
+| Partición 0: 0x8052288 - 0x8052292 |  [X]  | Size: 11 b  |  LRU: 1  |  COLA: GET_POKEMON  | ID: 22 
+| Partición 1: 0x8052293 - 0x8052296 |  [X]  | Size: 4 b  |  LRU: 8  |  COLA: LOCALIZED_POKEMON  | ID: 17 
+| Partición 2: 0x8052297 - 0x80522a2 |  [X]  | Size: 12 b  |  LRU: 4  |  COLA: GET_POKEMON  | ID: 19 
+| Partición 3: 0x80522a3 - 0x80522ad |  [X]  | Size: 11 b  |  LRU: 3  |  COLA: GET_POKEMON  | ID: 20 
+| Partición 4: 0x80522ae - 0x80522b8 |  [X]  | Size: 11 b  |  LRU: 2  |  COLA: GET_POKEMON  | ID: 21 
+| Partición 5: 0x80522b9 - 0x80522c2 |  [X]  | Size: 10 b  |  LRU: 0  |  COLA: GET_POKEMON  | ID: 23 
+| Partición 6: 0x80522c3 - 0x80522c7 |  [L]  | Size: 5 b 
+---------------------------------------------------

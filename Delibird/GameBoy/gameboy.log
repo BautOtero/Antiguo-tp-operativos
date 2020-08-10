@@ -1,0 +1,307 @@
+[INFO] 17:27:16:526 GameBoy/(5117:5117):  Proceso Suscriptor ejecutado. 
+
+[INFO] 17:27:19:158 GameBoy/(5124:5124):  Proceso Suscriptor ejecutado. 
+
+[INFO] 18:04:56:945 GameBoy/(6735:6735):  Proceso Suscriptor ejecutado. 
+
+[INFO] 18:05:52:545 GameBoy/(6798:6798):  Proceso Suscriptor ejecutado. 
+
+[INFO] 18:06:00:201 GameBoy/(6800:6800):  Proceso Suscriptor ejecutado. 
+
+[INFO] 18:06:19:753 GameBoy/(6833:6833):  Proceso Suscriptor ejecutado. 
+
+[INFO] 18:07:15:461 GameBoy/(6917:6917):  Proceso Suscriptor ejecutado. 
+
+[INFO] 18:07:27:897 GameBoy/(6920:6920):  Proceso Suscriptor ejecutado. 
+
+[INFO] 19:13:50:73 GameBoy/(28001:28001):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 19:15:45:270 GameBoy/(28151:28151):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 19:15:52:588 GameBoy/(28153:28153):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 19:16:22:500 GameBoy/(28156:28156):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 19:19:03:869 GameBoy/(28361:28361):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 19:21:19:917 GameBoy/(28483:28483):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 19:22:57:993 GameBoy/(28694:28694):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 19:23:13:494 GameBoy/(28745:28745):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 19:23:47:886 GameBoy/(28791:28791):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 19:24:20:521 GameBoy/(28828:28828):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 19:28:07:605 GameBoy/(28880:28880):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 19:28:26:788 GameBoy/(28883:28883):  Mensaje GET_POKEMON en GameCard enviado 
+
+[INFO] 19:29:01:48 GameBoy/(28889:28889):  Mensaje CATCH_POKEMON en GameCard enviado 
+
+[INFO] 20:09:00:77 GameBoy/(5881:5881):  Mensaje APPEARED_POKEMON en Broker enviado 
+
+[INFO] 20:09:50:796 GameBoy/(5886:5886):  Mensaje APPEARED_POKEMON en Broker enviado 
+
+[INFO] 20:12:25:529 GameBoy/(5961:5961):  Mensaje APPEARED_POKEMON en Broker enviado 
+
+[INFO] 00:47:40:978 GameBoy/(23810:23810):  Mensaje CAUGHT_POKEMON en Broker enviado 
+
+[INFO] 00:48:31:994 GameBoy/(23814:23814):  Mensaje NEW_POKEMON en Broker enviado 
+
+[INFO] 00:49:38:34 GameBoy/(23858:23858):  Mensaje CAUGHT_POKEMON en Broker enviado 
+
+[INFO] 00:50:30:715 GameBoy/(23870:23870):  Mensaje NEW_POKEMON en Broker enviado 
+
+[INFO] 00:55:37:475 GameBoy/(23994:23994):  Mensaje CAUGHT_POKEMON en Broker enviado 
+
+[INFO] 00:59:16:339 GameBoy/(24179:24179):  Mensaje CAUGHT_POKEMON en Broker enviado 
+
+[INFO] 00:59:23:620 GameBoy/(24186:24186):  Mensaje CAUGHT_POKEMON en Broker enviado 
+
+[INFO] 01:16:42:958 GameBoy/(24948:24948):  Mensaje CAUGHT_POKEMON en Broker enviado 
+
+[INFO] 01:17:40:990 GameBoy/(25066:25066):  Mensaje CAUGHT_POKEMON en Broker enviado 
+
+[INFO] 23:53:20:325 GameBoy/(32525:32525):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 23:54:03:501 GameBoy/(32667:32667):  Mensaje GET_POKEMON en GameCard enviado 
+
+[INFO] 23:55:10:957 GameBoy/(413:413):  Mensaje CATCH_POKEMON en GameCard enviado 
+
+[INFO] 23:56:19:212 GameBoy/(657:657):  Mensaje GET_POKEMON en GameCard enviado 
+
+[INFO] 23:57:28:125 GameBoy/(914:914):  Mensaje GET_POKEMON en GameCard enviado 
+
+[INFO] 23:59:19:652 GameBoy/(1254:1254):  Mensaje GET_POKEMON en GameCard enviado 
+
+[INFO] 00:11:52:756 GameBoy/(4006:4006):  Mensaje CATCH_POKEMON en GameCard enviado 
+
+[INFO] 00:14:09:98 GameBoy/(4623:4623):  Mensaje GET_POKEMON en GameCard enviado 
+
+[INFO] 00:14:18:98 GameBoy/(4638:4638):  Mensaje GET_POKEMON en GameCard enviado 
+
+[INFO] 00:14:29:130 GameBoy/(4729:4729):  Mensaje GET_POKEMON en GameCard enviado 
+
+[INFO] 00:20:44:323 GameBoy/(5786:5786):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 00:21:13:624 GameBoy/(5878:5878):  Mensaje CATCH_POKEMON en GameCard enviado 
+
+[INFO] 00:22:03:752 GameBoy/(6090:6090):  Mensaje CATCH_POKEMON en GameCard enviado 
+
+[INFO] 00:23:26:536 GameBoy/(6290:6290):  Mensaje CATCH_POKEMON en GameCard enviado 
+
+[INFO] 00:24:05:200 GameBoy/(6423:6423):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 00:24:54:720 GameBoy/(6642:6642):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 00:25:29:119 GameBoy/(6746:6746):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 00:27:11:126 GameBoy/(6938:6938):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 00:27:21:261 GameBoy/(6972:6972):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 00:27:33:22 GameBoy/(7010:7010):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 00:27:43:832 GameBoy/(7048:7048):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 00:27:44:845 GameBoy/(7053:7053):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 00:27:47:349 GameBoy/(7063:7063):  Mensaje CATCH_POKEMON en GameCard enviado 
+
+[INFO] 00:28:15:733 GameBoy/(7152:7152):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 00:28:33:676 GameBoy/(7220:7220):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 00:30:18:643 GameBoy/(7727:7727):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 00:30:22:162 GameBoy/(7739:7739):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 00:30:37:834 GameBoy/(7854:7854):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 00:41:38:622 GameBoy/(8990:8990):  Mensaje APPEARED_POKEMON en Team enviado 
+
+[INFO] 20:18:32:900 GameBoy/(5073:5073):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 20:20:15:108 GameBoy/(5473:5473):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 20:22:50:994 GameBoy/(5798:5798):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 20:23:00:658 GameBoy/(5800:5800):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 20:23:17:650 GameBoy/(5801:5801):  Mensaje NEW_POKEMON en GameCard enviado 
+
+[INFO] 04:56:08:709 GameBoy/(5597:5597): Enviando el mensaje de tipo : NEW_POKEMON
+[INFO] 04:56:08:724 GameBoy/(5597:5597): El id asignado por el broker es : 1
+[INFO] 04:56:22:881 GameBoy/(5601:5601): Enviando el mensaje de tipo : NEW_POKEMON
+[INFO] 04:56:22:882 GameBoy/(5601:5601): El id asignado por el broker es : 2
+[INFO] 04:56:35:597 GameBoy/(5603:5603): Suscribiendose a NEW_POKEMON : ‰EÈƒìhS¤ÿuÈèjïÿÿƒÄ‰EÌ‹E´‹@‰EÐ¡|ÀƒìÿuÐhY¤PèÕîÿÿƒÄ‹E´‹@‰Eä‹E´‹@‰Eè‹EÌ‰Eì‹E´‹@‰Eð‹E´ƒÀ‹
+[INFO] 04:56:35:598 GameBoy/(5603:5605): Recibiendo los mensajes :
+[INFO] 04:56:35:598 GameBoy/(5603:5605): 2 :
+[INFO] 04:56:35:598 GameBoy/(5603:5605): NEW_POKEMON :
+[INFO] 04:56:35:598 GameBoy/(5603:5605): Pikachu :
+[INFO] 04:56:35:598 GameBoy/(5603:5605): 1 :
+[INFO] 04:56:35:598 GameBoy/(5603:5605): 2 :
+[INFO] 04:56:35:598 GameBoy/(5603:5605): 1 :
+[INFO] 04:56:35:598 GameBoy/(5603:5605): 2 :
+[INFO] 04:56:35:599 GameBoy/(5603:5606): Enviando ack a la cola de mensajes NEW_POKEMON :
+[INFO] 04:56:36:598 GameBoy/(5603:5608): Recibiendo los mensajes :
+[INFO] 04:56:36:598 GameBoy/(5603:5608): 1 :
+[INFO] 04:56:36:598 GameBoy/(5603:5608): NEW_POKEMON :
+[INFO] 04:56:36:598 GameBoy/(5603:5608): Raichu :
+[INFO] 04:56:36:598 GameBoy/(5603:5608): 1 :
+[INFO] 04:56:36:598 GameBoy/(5603:5608): 2 :
+[INFO] 04:56:36:598 GameBoy/(5603:5608): 1 :
+[INFO] 04:56:36:598 GameBoy/(5603:5608): 1 :
+[INFO] 04:56:36:598 GameBoy/(5603:5609): Enviando ack a la cola de mensajes NEW_POKEMON :
+[INFO] 04:57:09:917 GameBoy/(5649:5649): Suscribiendose a NEW_POKEMON : ‰EÈƒìhS¤ÿuÈèjïÿÿƒÄ‰EÌ‹E´‹@‰EÐ¡|ÀƒìÿuÐhY¤PèÕîÿÿƒÄ‹E´‹@‰Eä‹E´‹@‰Eè‹EÌ‰Eì‹E´‹@‰Eð‹E´ƒÀ‹
+[INFO] 04:57:21:150 GameBoy/(5676:5676): Suscribiendose a NEW_POKEMON : ‰EÈƒìhS¤ÿuÈèjïÿÿƒÄ‰EÌ‹E´‹@‰EÐ¡|ÀƒìÿuÐhY¤PèÕîÿÿƒÄ‹E´‹@‰Eä‹E´‹@‰Eè‹EÌ‰Eì‹E´‹@‰Eð‹E´ƒÀ‹
+[INFO] 04:58:18:20 GameBoy/(5716:5716): Suscribiendose a NEW_POKEMON : ‰EÈƒìhs¤ÿuÈèjïÿÿƒÄ‰EÌ‹E´‹@‰EÐ¡|ÀƒìÿuÐhy¤PèÕîÿÿƒÄ‹E´‹@‰Eä‹E´‹@‰Eè‹EÌ‰Eì‹E´‹@‰Eð‹E´ƒÀ‹
+[INFO] 04:58:18:21 GameBoy/(5716:5716): No se pudo conectar con el broker
+[INFO] 04:59:00:876 GameBoy/(5753:5753): No se pudo conectar con el broker
+[INFO] 05:01:18:8 GameBoy/(5920:5920): Enviando el mensaje de tipo : NEW_POKEMON
+[INFO] 05:01:18:8 GameBoy/(5920:5920): El id asignado por el broker es : 1
+[INFO] 05:01:22:500 GameBoy/(5922:5924): Recibiendo los mensajes :
+[INFO] 05:01:22:500 GameBoy/(5922:5924): 1
+[INFO] 05:01:22:500 GameBoy/(5922:5924): NEW_POKEMON
+[INFO] 05:01:22:501 GameBoy/(5922:5924): Pikachu
+[INFO] 05:01:22:501 GameBoy/(5922:5924): 1
+[INFO] 05:01:22:501 GameBoy/(5922:5924): 2
+[INFO] 05:01:22:501 GameBoy/(5922:5924): 1
+[INFO] 05:01:22:501 GameBoy/(5922:5924): 1
+[INFO] 05:01:22:501 GameBoy/(5922:5925): Enviando ack a la cola de mensajes NEW_POKEMON :
+[INFO] 05:03:10:406 GameBoy/(5954:5954): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:11:24:108 GameBoy/(6054:6054): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:11:37:351 GameBoy/(6058:6058): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:11:52:735 GameBoy/(6059:6059): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:20:02:612 GameBoy/(6150:6150): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:24:03:793 GameBoy/(6394:6394): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:33:35:115 GameBoy/(6837:6837): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:34:12:159 GameBoy/(6924:6924): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:36:14:785 GameBoy/(7078:7078): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:36:43:529 GameBoy/(7164:7164): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:41:32:74 GameBoy/(7395:7395): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:41:37:725 GameBoy/(7422:7422): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:46:07:332 GameBoy/(7783:7783): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:46:31:819 GameBoy/(7816:7816): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:48:18:159 GameBoy/(8063:8063): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:48:36:695 GameBoy/(8118:8118): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:50:27:460 GameBoy/(8239:8239): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:50:28:931 GameBoy/(8242:8242): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:50:29:603 GameBoy/(8245:8245): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:50:30:363 GameBoy/(8248:8248): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:50:31:252 GameBoy/(8251:8251): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:50:32:43 GameBoy/(8254:8254): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:50:32:885 GameBoy/(8257:8257): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:50:33:659 GameBoy/(8260:8260): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:50:45:383 GameBoy/(8306:8306): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:52:32:28 GameBoy/(8452:8452): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:52:47:138 GameBoy/(8505:8505): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:57:15:724 GameBoy/(8642:8642): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:57:38:827 GameBoy/(8719:8719): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:57:53:476 GameBoy/(8766:8766): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 05:59:51:978 GameBoy/(8882:8882): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:04:06:557 GameBoy/(9247:9247): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:04:18:895 GameBoy/(9291:9291): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:06:02:941 GameBoy/(9462:9462): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:06:13:246 GameBoy/(9464:9464): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:07:59:645 GameBoy/(9555:9555): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:08:05:308 GameBoy/(9557:9557): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:09:26:901 GameBoy/(9700:9700): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:09:30:676 GameBoy/(9702:9702): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:10:13:828 GameBoy/(9720:9720): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:10:21:204 GameBoy/(9748:9748): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:10:22:356 GameBoy/(9750:9750): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:13:31:179 GameBoy/(9935:9935): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:13:38:115 GameBoy/(9982:9982): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:14:06:473 GameBoy/(10042:10042): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:14:08:435 GameBoy/(10044:10044): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:14:09:965 GameBoy/(10046:10046): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:16:50:642 GameBoy/(10189:10189): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:16:55:531 GameBoy/(10191:10191): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:18:49:585 GameBoy/(10299:10299): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:18:51:56 GameBoy/(10301:10301): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:19:45:741 GameBoy/(10374:10374): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:21:15:902 GameBoy/(10465:10465): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:22:07:300 GameBoy/(10571:10571): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:26:00:974 GameBoy/(10765:10765): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:26:02:998 GameBoy/(10767:10767): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:27:11:926 GameBoy/(10854:10854): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:28:40:394 GameBoy/(10945:10945): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:31:03:629 GameBoy/(11083:11083): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:31:39:368 GameBoy/(11152:11152): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:32:04:857 GameBoy/(11200:11200): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:32:33:923 GameBoy/(11249:11249): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:32:52:293 GameBoy/(11302:11302): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:38:09:953 GameBoy/(11540:11540): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:40:51:823 GameBoy/(11779:11779): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:42:12:690 GameBoy/(11895:11895): Enviando el mensaje de tipo : NEW_POKEMON
+[INFO] 06:42:12:697 GameBoy/(11895:11895): El id asignado por el broker es : 1
+[INFO] 06:46:11:220 GameBoy/(12139:12139): Enviando el mensaje de tipo : NEW_POKEMON
+[INFO] 06:46:11:227 GameBoy/(12139:12139): El id asignado por el broker es : 1
+[INFO] 06:56:30:885 GameBoy/(12789:12789): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:57:39:264 GameBoy/(12949:12949): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:58:06:809 GameBoy/(13039:13039): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:58:45:347 GameBoy/(13183:13183): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:58:47:531 GameBoy/(13185:13185): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 06:59:55:50 GameBoy/(13295:13295): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 07:00:52:793 GameBoy/(13422:13422): Enviando el mensaje de tipo : LOCALIZED_POKEMON
+[INFO] 16:05:04:568 GameBoy/(28768:28768): Enviando el mensaje de tipo : APPEARED_POKEMON
+[INFO] 16:05:05:792 GameBoy/(28768:28768): El id asignado por el broker es : 6
+[INFO] 16:07:11:332 GameBoy/(29260:29260): Enviando el mensaje de tipo : APPEARED_POKEMON
+[INFO] 16:07:11:332 GameBoy/(29260:29260): El id asignado por el broker es : (null)
+[INFO] 16:08:12:96 GameBoy/(29388:29388): Enviando el mensaje de tipo : APPEARED_POKEMON
+[INFO] 16:08:13:448 GameBoy/(29388:29388): El id asignado por el broker es : 1
+[INFO] 20:02:00:509 GameBoy/(6534:6534): Enviando el mensaje de tipo : CAUGHT_POKEMON
+[INFO] 20:02:00:521 GameBoy/(6534:6534): El id asignado por el broker es : 1
+[INFO] 20:03:00:804 GameBoy/(6665:6665): Enviando el mensaje de tipo : CAUGHT_POKEMON
+[INFO] 20:03:00:815 GameBoy/(6665:6665): El id asignado por el broker es : 1
+[INFO] 20:06:45:762 GameBoy/(6802:6804): Recibiendo los mensajes :
+[INFO] 20:06:45:762 GameBoy/(6802:6804): 1
+[INFO] 20:06:45:762 GameBoy/(6802:6804): CAUGHT_POKEMON
+[INFO] 20:06:45:763 GameBoy/(6802:6804): 1
+[INFO] 20:06:45:763 GameBoy/(6802:6804): 32
+[INFO] 20:06:45:767 GameBoy/(6802:6806): Enviando ack a la cola de mensajes CAUGHT_POKEMON :
+[INFO] 21:51:26:597 GameBoy/(10627:10629): Recibiendo los mensajes :
+[INFO] 21:51:26:597 GameBoy/(10627:10629): 6
+[INFO] 21:51:26:597 GameBoy/(10627:10629): NEW_POKEMON
+[INFO] 21:51:26:597 GameBoy/(10627:10629): Vaporeon
+[INFO] 21:51:26:597 GameBoy/(10627:10629): 4
+[INFO] 21:51:26:597 GameBoy/(10627:10629): 10
+[INFO] 21:51:26:597 GameBoy/(10627:10629): 1
+[INFO] 21:51:26:597 GameBoy/(10627:10629): 6
+[INFO] 21:51:26:598 GameBoy/(10627:10631): Enviando ack a la cola de mensajes NEW_POKEMON :
+[INFO] 21:51:26:598 GameBoy/(10627:10629): Recibiendo los mensajes :
+[INFO] 21:51:26:598 GameBoy/(10627:10629): 5
+[INFO] 21:51:26:598 GameBoy/(10627:10629): NEW_POKEMON
+[INFO] 21:51:26:598 GameBoy/(10627:10629): Espeon
+[INFO] 21:51:26:598 GameBoy/(10627:10629): 7
+[INFO] 21:51:26:598 GameBoy/(10627:10629): 1
+[INFO] 21:51:26:598 GameBoy/(10627:10629): 1
+[INFO] 21:51:26:598 GameBoy/(10627:10629): 5
+[INFO] 21:51:26:598 GameBoy/(10627:10633): Enviando ack a la cola de mensajes NEW_POKEMON :
+[INFO] 14:27:50:451 GameBoy/(12113:12113): Enviando el mensaje de tipo : NEW_POKEMON
+[INFO] 14:27:51:152 GameBoy/(12113:12113): El id asignado por el broker es : 1
+[INFO] 14:27:57:723 GameBoy/(12115:12115): Enviando el mensaje de tipo : NEW_POKEMON
+[INFO] 14:27:58:288 GameBoy/(12115:12115): El id asignado por el broker es : 2
+[INFO] 14:28:12:94 GameBoy/(12118:12119): Recibiendo los mensajes :
+[INFO] 14:28:12:94 GameBoy/(12118:12119):  El mensaje recibido es: 2 NEW_POKEMON Pikachu 1 2 1 2  
+[INFO] 14:28:12:95 GameBoy/(12118:12121): Enviando ack a la cola de mensajes NEW_POKEMON :
+[INFO] 14:28:12:303 GameBoy/(12118:12119): Recibiendo los mensajes :
+[INFO] 14:28:12:303 GameBoy/(12118:12119):  El mensaje recibido es: 1 NEW_POKEMON Pikachu 1 2 1 1  
+[INFO] 14:28:12:304 GameBoy/(12118:12122): Enviando ack a la cola de mensajes NEW_POKEMON :
+[INFO] 14:32:54:37 GameBoy/(12290:12290): Enviando el mensaje de tipo : NEW_POKEMON
+[INFO] 14:32:54:599 GameBoy/(12290:12290): El id asignado por el broker es : 1
+[INFO] 14:33:03:453 GameBoy/(12292:12292): Enviando el mensaje de tipo : NEW_POKEMON
+[INFO] 14:33:04:12 GameBoy/(12292:12292): El id asignado por el broker es : 2
+[INFO] 14:33:05:525 GameBoy/(12299:12299): Enviando el mensaje de tipo : NEW_POKEMON
+[INFO] 14:33:06:86 GameBoy/(12299:12299): El id asignado por el broker es : 3
+[INFO] 14:33:12:141 GameBoy/(12301:12301): Enviando el mensaje de tipo : NEW_POKEMON
+[INFO] 14:33:12:707 GameBoy/(12301:12301): El id asignado por el broker es : 4
+[INFO] 14:33:13:805 GameBoy/(12303:12303): Enviando el mensaje de tipo : NEW_POKEMON
+[INFO] 14:33:14:363 GameBoy/(12303:12303): El id asignado por el broker es : 5
+[INFO] 14:33:15:821 GameBoy/(12305:12305): Enviando el mensaje de tipo : NEW_POKEMON
+[INFO] 14:33:16:400 GameBoy/(12305:12305): El id asignado por el broker es : 6
+[INFO] 14:33:17:221 GameBoy/(12307:12307): Enviando el mensaje de tipo : NEW_POKEMON
+[INFO] 14:33:17:788 GameBoy/(12307:12307): El id asignado por el broker es : 7
